@@ -1,1 +1,3 @@
-# FM
+# MyGit
+
+A description of this package.
